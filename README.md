@@ -17,9 +17,9 @@ You can start editing the page by modifying `src/App.tsx`. The page auto-updates
 To learn more about Next.js, take a look at the following resources:
 
 - [React.js Documentation](https://react.dev/reference/react) - learn about Next.js features and API.
-- [Learn Next.js](https://react.dev/learn) - an interactive Next.js tutorial.
+- [Learn React.js](https://react.dev/learn) - an interactive React.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/facebook/react) - your feedback and contributions are welcome!
+You can check out [the React.js GitHub repository](https://github.com/facebook/react) - your feedback and contributions are welcome!
 
 ## Deploy
 
